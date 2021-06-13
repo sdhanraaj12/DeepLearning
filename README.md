@@ -1,5 +1,5 @@
-# Woolly-of-CV
-This repo contains ML applications which will teach you CV concepts from scratch
+# Deeplearning and Neural networks
+This repo contains ML applications which will teach CV concepts from scratch
 
 ## Contributer
 * [Ammar Adil](https://github.com/adilsammar)

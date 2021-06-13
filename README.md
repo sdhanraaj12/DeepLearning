@@ -22,4 +22,3 @@
 ![](./assets/9.jpeg)
 ![](./assets/10.jpeg)
 ![](./assets/11.jpeg)
-![](./assets/12.jpg)
